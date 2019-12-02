@@ -1,7 +1,7 @@
 # Boston-House-Price-Prediction
 Applied various regression algorithms like Linear Regression, Random Forest Regression, XGBoost Regression and Support Vector Machine 
 Regression on the Boston Standard Metropolitan Statistical Area (SMSA) data set to find which model predicts the best on the test set.
-The data set has 13 attributes or features - 
+The data set has 13 attributes or features-<br>
 1.CRIM: per capita crime rate by town<br>
 2. ZN: proportion of residential land zoned for lots over 25,000 sq.ft.<br> 
 3. INDUS: proportion of non-retail business acres per town<br>
