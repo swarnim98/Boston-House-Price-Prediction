@@ -6,7 +6,7 @@ The data set has 13 attributes or features-<br>
 2. ZN: proportion of residential land zoned for lots over 25,000 sq.ft.<br> 
 3. INDUS: proportion of non-retail business acres per town<br>
 4. CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise) <br>
-5. NOX: nitric oxides concentration (parts per 10 million)1https://archive.ics.uci.edu/ml/datasets/Housing 123 20.2.Load the Dataset124<br> 
+5. NOX: nitric oxides concentration (parts per 10 million)1 123 20.2.Load the Dataset124<br> 
 6. RM: average number of rooms per dwelling <br>
 7. AGE: proportion of owner-occupied units built prior to 1940 <br>
 8. DIS: weighted distances to ﬁve Boston employment centers <br>
